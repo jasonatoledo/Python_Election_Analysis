@@ -26,6 +26,18 @@ Denver County had the largest number of votes, with 306,055 or 82.8% of the enti
 
 ### Provide a breakdown of the number of votes and the percentage of the total votes each candidate received.
 
+The breakdown of the number of votes and the percentage of total votes is as follows:
+
+Charles Casper Stockham: 23.0% (85,213)
+
+Diana DeGette: 73.8% (272,892)
+
+Raymon Anthony Doane: 3.1% (11,606)
+
+Here is the image of the text file output to validate these results:
+
+https://github.com/jasonatoledo/Python_Election_Analysis/blob/master/Resources/txt.file.photo.png
+
 ### Which candidate won the election, what was their vote count, and what was their percentage of the total votes?
 
 
