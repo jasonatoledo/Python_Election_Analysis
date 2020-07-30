@@ -2,6 +2,7 @@
 
 ## Overview
 
+The purpose of this Election Audit Analysis was to take the original election audit analysis about the candidate and make it complete by adding the county votes and breakdown of the counties and respective percentages of votes. The final output of the analysis would be sent to a text file in a summary format that is easily consumable by anyone who wants to view the winning county and candidate information.
 
 
 ## Election-Audit Results
