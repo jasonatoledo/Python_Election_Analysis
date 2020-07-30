@@ -40,5 +40,20 @@ https://github.com/jasonatoledo/Python_Election_Analysis/blob/master/Resources/t
 
 ### Which candidate won the election, what was their vote count, and what was their percentage of the total votes?
 
+The candidate that won the election is:
+
+* Winner: Diana DeGette
+
+* Total of 272,892 votes 
+
+* 73.8% of the total votes
 
 ## Election-Audit Summary
+
+This script proved very useful for determining the winners, number of votes, and the percentage of votes for the county and candidates. It could be used for any election given a some of easy modifications:
+
+1) Ensure the files to load and save are updated with new paths and proper corresponding path names that will be read/written to
+
+2) Adjust the candidate name and county name column values as needed
+
+3) If there are other pieces of information, such as state or district, the code blocks used for county/candidate could be slightly altered to include additional data. The column would have to be added to where the candidate/county name values are derived.
